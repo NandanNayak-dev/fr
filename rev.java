@@ -1,5 +1,5 @@
 package fr;
-class revmiddle {
+class rev {
 
     static class Node {
         int data;

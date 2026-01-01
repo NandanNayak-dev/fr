@@ -1,7 +1,5 @@
 package fr;
-
-public class mid {
-
+class MiddleOfLinkedList {
 
     static class Node {
         int data;
@@ -33,6 +31,4 @@ public class mid {
 
         System.out.println(findMiddle(head));
     }
-
-
 }
